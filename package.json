@@ -1,0 +1,26 @@
+{
+  "name": "counthash",
+  "version": "1.0.0",
+  "description": "Count length of arrays on object",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsifalda/counthash.git"
+  },
+  "keywords": [
+    "object",
+    "count",
+    "hash",
+    "array",
+    "length"
+  ],
+  "author": "jsifalda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsifalda/counthash/issues"
+  },
+  "homepage": "https://github.com/jsifalda/counthash#readme"
+}
